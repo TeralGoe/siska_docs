@@ -7,7 +7,7 @@
   * Static
 * **Immobilien**
   * [Sections](#immobilien---sections)
-  * [Offers](#dashboard---Offers)
+  * [Offers](#immobilien---offers)
 
 
 ## Immobilien - Sections
@@ -22,7 +22,7 @@
 * **Preis:** also required, fill without specifying the currency type
 * **Objektfotos:** photos are not required, and can be uploaded later
 
-After saving, you will be redirected to the [offer page](#dashboard---Offers) where you can add complete information. The new offer will be assigned "Created" status and it will not be displayed on the site until the transition to the "Published".
+After saving, you will be redirected to the [offer page](#immobilien---offers) where you can add complete information. The new offer will be assigned "Created" status and it will not be displayed on the site until the transition to the "Published".
 
 ### 2. Section settings
 
